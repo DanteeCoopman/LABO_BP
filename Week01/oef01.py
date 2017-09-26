@@ -1,4 +1,3 @@
-#dit is commentaar
 #dit wordt hoogstwaarschijnlijk afzien
 
 #print( voornaam, "is nogal trash,\n de", voornaam, "is vrij tot uitzonderlijk zielig")
